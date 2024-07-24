@@ -9,7 +9,8 @@ slprj/
 *.asv
 *slx.r2021a
 *.slx.original
-state space analysis/Releases/*.prj
-state space analysis/AURAdb/digitizers/plotDigitizer/temp/
-state space analysis/AURAdb/databases/@capacitorDB/capacitors.mat
-state space analysis/Toolbox/Switched Mode Power Supply Toolbox.mltbx
+Releases/*.prj
+AURAdb/digitizers/plotDigitizer/temp/
+AURAdb/databases/@capacitorDB/capacitors.mat
+Toolbox/Switched Mode Power Supply Toolbox.mltbx
+Toolbox/AURA.prj

@@ -6,7 +6,7 @@
     <param.company />
     <param.summary>Steady state solutions to switched mode power supplies</param.summary>
     <param.description>The Switched Mode Power Supply Toolbox provides capabilities for the steady-state and small-signal modeling of switched mode power supplies.  These capabilities facilitate design optimization in power electronics for a variety of applications.</param.description>
-    <param.screenshot>C:\Users\dcostine\Dropbox\UTK\Research\AURA\doc\images\LB2.png</param.screenshot>
+    <param.screenshot>${PROJECT_ROOT}\doc\images\LB2.png</param.screenshot>
     <param.version>0.2.8</param.version>
     <param.output>${PROJECT_ROOT}\Switched Mode Power Supply Toolbox.mltbx</param.output>
     <param.products.name />
@@ -172,25 +172,25 @@ AURAdb/digitizers/plotDigitizer/appDesignerTempData_*
       <param.additional.sw.linux.url />
     </unset>
     <fileset.rootdir>
-      <file>C:\Users\dcostine\Dropbox\UTK\Research\AURA</file>
+      <file>${PROJECT_ROOT}</file>
     </fileset.rootdir>
     <fileset.rootfiles>
-      <file>C:\Users\dcostine\Dropbox\UTK\Research\AURA\@SMPSconverter</file>
-      <file>C:\Users\dcostine\Dropbox\UTK\Research\AURA\@SMPSim</file>
-      <file>C:\Users\dcostine\Dropbox\UTK\Research\AURA\@SMPSoptimizer</file>
-      <file>C:\Users\dcostine\Dropbox\UTK\Research\AURA\@SMPStopology</file>
-      <file>C:\Users\dcostine\Dropbox\UTK\Research\AURA\AURAdb</file>
-      <file>C:\Users\dcostine\Dropbox\UTK\Research\AURA\changelog.txt</file>
-      <file>C:\Users\dcostine\Dropbox\UTK\Research\AURA\Contents.m</file>
-      <file>C:\Users\dcostine\Dropbox\UTK\Research\AURA\demos.xml</file>
-      <file>C:\Users\dcostine\Dropbox\UTK\Research\AURA\DesktopToolset.xml</file>
-      <file>C:\Users\dcostine\Dropbox\UTK\Research\AURA\doc</file>
-      <file>C:\Users\dcostine\Dropbox\UTK\Research\AURA\html</file>
-      <file>C:\Users\dcostine\Dropbox\UTK\Research\AURA\LICENSE.txt</file>
-      <file>C:\Users\dcostine\Dropbox\UTK\Research\AURA\packageAURA.m</file>
-      <file>C:\Users\dcostine\Dropbox\UTK\Research\AURA\parsers</file>
-      <file>C:\Users\dcostine\Dropbox\UTK\Research\AURA\supplemental functions</file>
-      <file>C:\Users\dcostine\Dropbox\UTK\Research\AURA\testConverters</file>
+      <file>@SMPSconverter</file>
+      <file>@SMPSim</file>
+      <file>@SMPSoptimizer</file>
+      <file>@SMPStopology</file>
+      <file>AURAdb</file>
+      <file>changelog.txt</file>
+      <file>Contents.m</file>
+      <file>demos.xml</file>
+      <file>DesktopToolset.xml</file>
+      <file>doc</file>
+      <file>html</file>
+      <file>LICENSE.txt</file>
+      <file>packageAURA.m</file>
+      <file>parsers</file>
+      <file>supplemental functions</file>
+      <file>testConverters</file>
       <file>${PROJECT_ROOT}</file>
       <file>C:\Users\dcostine\Dropbox\UTK\Research\AURA\updateToolbox.m</file>
     </fileset.rootfiles>
