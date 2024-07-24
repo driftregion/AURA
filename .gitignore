@@ -12,5 +12,5 @@ slprj/
 Releases/*.prj
 AURAdb/digitizers/plotDigitizer/temp/
 AURAdb/databases/@capacitorDB/capacitors.mat
-Toolbox/Switched Mode Power Supply Toolbox.mltbx
-Toolbox/AURA.prj
+Switched Mode Power Supply Toolbox.mltbx
+AURA.prj
