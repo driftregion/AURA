@@ -11,15 +11,15 @@
 % which MATLAB is free to do its dirty work on.
 if exist("AURA.prj", "file")
     % exists, overwrite if the template is newer
-    if datetime(dir("AURA.prj.template").date) > datetime(dir("Toolbox/AURA.prj").date)
-        copyfile("AURA.prj.template", "Toolbox/AURA.prj")
+    if datetime(dir("AURA.prj.template").date) > datetime(dir("AURA.prj").date)
+        copyfile("AURA.prj.template", "AURA.prj")
         disp("AURA.prj updated")
     else
         disp("using existing AURA.prj")
     end
 else
     % doesn't exist, copy the template
-    copyfile("AURA.prj.template", "Toolbox/AURA.prj")
+    copyfile("AURA.prj.template", "AURA.prj")
     disp("AURA.prj created")
 end
 
