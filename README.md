@@ -24,7 +24,7 @@ From the MATLAB command line, run `updateToolbox` to update both the toolbox cod
 
 # Structure and Use
 
-![image_0.png](https://github.com/costinet/AURA/blob/master/state%20space%20analysis/doc/images/gettingStartedImages/ToolboxStructure.png)
+![](./state%20space%20analysis/doc/images/gettingStartedImages/ToolboxStructure.png)
 
 ## Documentation
 For an introduction to the toolbox, see the [GettingStarted.mlx](https://github.com/costinet/AURA/blob/master/state%20space%20analysis/doc/GettingStarted.mlx) or the web-based version of the same file [GettingStarted.md](https://github.com/costinet/AURA/blob/master/GettingStarted.md)
